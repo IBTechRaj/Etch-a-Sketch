@@ -1,0 +1,50 @@
+body{
+  background-color: #a1cded;
+}
+
+#heading{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 20px;
+  width: 100%;
+  margin: 0px;
+}
+
+h1{
+  margin: 0px;
+}
+
+.controls{
+  text-align: center;
+}
+.container {
+  background-color: white;
+  display: grid;
+  border: 3px solid black;
+  grid-gap: 1px;
+  height: 516px;
+  width: 768px;
+  margin: auto;
+}
+
+.btn {
+  font-size: 20px;
+  margin: 5px 20px;
+  border: 1px solid black;
+  border-radius: 2px;
+
+}
+
+.header {
+  text-align: center;
+}
+
+.box {
+  background-color: #e8eaed;
+  height: auto;
+  width: auto;
+}
+
+.selected {
+  background-color: blue;
+}
